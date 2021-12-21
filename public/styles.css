@@ -1,0 +1,18 @@
+h1 {
+	color: red;
+}
+
+.flex-list {
+	display: flex;
+	flex-direction: column;
+}
+
+
+body {
+	background-color: #111;
+	color: #aeaeae;
+}
+
+h1 {
+	color: white;
+}
