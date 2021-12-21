@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-export default function VideoPage() {
+export default function PhotoPage() {
   const [show, setShow] = useState(false);
 
   return (

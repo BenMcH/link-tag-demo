@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 
-export default function VideoPage() {
+export default function FetchPage() {
 	const [data, setData] = useState(null);
 
 	const getData = async (event) => {

@@ -19,7 +19,6 @@ export default function App() {
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <link rel="icon" type="image/x-icon" href="/favicon.ico?cache=busted"  />
         <link rel="stylesheet" type="text/css" href="/styles.css"  />
-        <link rel="pingback" href="http://localhost:3000/pingback" />
         <Meta />
         <Links />
       </head>
